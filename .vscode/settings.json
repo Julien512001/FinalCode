@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "stdio.h": "c"
+    }
+}
