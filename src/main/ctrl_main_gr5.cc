@@ -56,7 +56,7 @@ void controller_loop(CtrlStruct *cvs)
     case RUN_STATE:
 
         if (cvs->robot_id == ROBOT_B) main_strategy_bleu;
-        if (cvs->robot_id == ROBOT_Y) main_strategy_jaune;
+        if (cvs->robot_id == ROBOT_Y) main_strategy_yellow;
         break;
 
     case BACK_HOME_STATE:
